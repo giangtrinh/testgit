@@ -1,1 +1,4 @@
-update from ubuntu
+update from ubuntu 
+test redesign1 win
+test lan 2 redesign1 1
+test lan 2 redesign1 2 
